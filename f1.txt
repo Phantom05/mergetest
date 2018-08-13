@@ -1,2 +1,7 @@
 hello world
+<<<<<<< HEAD
 Test2 world!!
+=======
+
+Im master
+>>>>>>> master
